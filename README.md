@@ -1,4 +1,5 @@
 # Visualización de Datos · 2026-II
+Trabajo sincronizado desde mi computador de casa.
 
 Material, talleres y proyectos del curso de Visualización de Datos
 de Ingeniería en Ciencia de Datos, Universidad EAN.
